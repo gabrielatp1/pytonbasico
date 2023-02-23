@@ -73,9 +73,3 @@ else:
     resultado = 0
 print("Resultado: ", resultado)'''
 
-senha = input("Digite sua senha: ")
-confirmação = input("Digite novamente: ")
-while if senha == confirmação:
-            print("Senha correta!")
-    else:
-    print("Senha incorreta! Digite novamente.")
