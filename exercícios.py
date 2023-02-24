@@ -73,3 +73,20 @@ else:
     resultado = 0
 print("Resultado: ", resultado)'''
 
+'''valor = int(input("Digite um valor: "))
+resto = valor % 2
+if resto == 0:
+    print("Número par.")
+else:
+    print("Número ímpar.")
+print(resto)'''
+
+while True:
+    senha = input("Digite sua senha: ")
+    confirma = input("Confirme sua senha: ")  
+    
+    if senha == confirma:
+        print("Login aceito.")
+        break        
+    else:
+        print('Login incorreto.')
