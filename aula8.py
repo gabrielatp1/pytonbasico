@@ -38,6 +38,29 @@ if A == 0:
 print(C)'''
 
 '''LISTA COM FOR'''
-frutas = ['laranja', 'mamão', 'uva', 'maçã', 'pera']
+'''frutas = ['laranja', 'mamão', 'uva', 'maçã', 'pera']
 for i in frutas:
-    print(i)
+    print(i)'''
+
+'''EXERCÍCIO 6 DA LISTA = duas opções'''
+'''A = input("Primeiro integrante do grupo: ")
+B = input("Segundo integrante do grupo: ")
+C = input("Terceiro integrante do grupo: ")
+D = input("Quarto integrante do grupo: ")
+E = input("Quinto integrante do grupo: ")
+Z = [A, B, C, D, E]
+print(Z)'''
+'''OU'''
+'''Z = [0, 0, 0, 0, 0]
+Z[0] = input("Primeiro integrante do grupo: ")
+Z[1] = input("Segundo integrante do grupo: ")
+Z[2] = input("Terceiro integrante do grupo: ")
+Z[3] = input("Quarto integrante do grupo: ")
+Z[4] = input("Quinto integrante do grupo: ")
+print(Z)'''
+
+a = input("Nota 1: ")
+b = input( "Nota 2: ")
+c = input("Nota 3: ")
+n = [a, b, c]
+print(n)

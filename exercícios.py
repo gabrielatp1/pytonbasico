@@ -81,7 +81,7 @@ else:
     print("Número ímpar.")
 print(resto)'''
 
-while True:
+'''while True:
     senha = input("Digite sua senha: ")
     confirma = input("Confirme sua senha: ")  
     
@@ -89,4 +89,5 @@ while True:
         print("Login aceito.")
         break        
     else:
-        print('Login incorreto.')
+        print('Login incorreto.')'''
+
