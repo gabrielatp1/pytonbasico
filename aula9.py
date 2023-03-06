@@ -46,8 +46,8 @@ print(L)'''
 '''for i in range(4):
     print(L[i])'''
 
-lista = [0, 0, 0]
+'''lista = [0, 0, 0]
 for i in range(3):
     valor = input("informe um valor: ")
     lista[i] = valor
-print(lista)
+print(lista)'''

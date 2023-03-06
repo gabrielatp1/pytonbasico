@@ -19,7 +19,7 @@ while x>=0:
     print(x)
     x = x - 1'''
 
-import time
+'''import time
 
 x = 10
 while x>=0:
@@ -38,4 +38,4 @@ while x>=0:
 x = 10
 while x>=0:
     print(x)
-    x = x - 1
+    x = x - 1'''
